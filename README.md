@@ -6,5 +6,5 @@ Render Link:[https://s24wb04kandikonda.onrender.com]
 class dreamdestination{
     String name;
     String location;
-    number rating;
+    double rating;
 }
